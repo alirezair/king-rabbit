@@ -253,10 +253,7 @@ An advance Administration bot based on yagop/telegram-bot
 https://github.com/dany-sj/EVIL_BOT
 
 Our team!
-danyal (@Xx_shah_zaq_eshqam_hosien_xX)
-abbas (@Iiborn)
-mahdi (@anonymous1221 )
-ali (@VAMPAYER10 )
+
 
 ]],
     help_text_realm = [[
